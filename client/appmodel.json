@@ -189,7 +189,7 @@
               "type": "string"
             },
             "stauts": {
-              "type": "select"
+              "type": "string"
             },
             "summary": {
               "type": "string"

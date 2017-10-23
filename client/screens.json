@@ -39,7 +39,8 @@
       "id": "blank1",
       "name": "BLANK1",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "jasontest_2"
+      "sourceAppId": "jasontest_2",
+      "model": "mydata"
     }
   ],
   "sourceAppId": "_blank",

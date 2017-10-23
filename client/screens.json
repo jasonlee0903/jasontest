@@ -34,6 +34,12 @@
       "sourceScreenId": "app.formlarge.formlargecool",
       "sourceAppId": "universaltemplates",
       "model": "formlargecool"
+    },
+    {
+      "id": "blank1",
+      "name": "BLANK1",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "jasontest_2"
     }
   ],
   "sourceAppId": "_blank",

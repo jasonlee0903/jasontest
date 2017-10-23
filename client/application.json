@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "d73d18f2",
   "uiCommonVersion": "5.2.1",
-  "creatorId": "nscajliu"
+  "creatorId": "nscajliu",
+  "id": "jasontest_2",
+  "previewImageURL": "/previews/d73d18f2-jasontest_2/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/jasonlee0903/jasontest",
+  "creatorName": "Ajax Liu",
+  "sdks": []
 }

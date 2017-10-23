@@ -175,5 +175,20 @@
         "type": "action"
       }
     }
+  },
+  "mydata": {
+    "type": "object",
+    "comment": "testdata",
+    "properties": {
+      "ID": {
+        "type": "string"
+      },
+      "Status": {
+        "type": "select"
+      },
+      "Summary": {
+        "type": "string"
+      }
+    }
   }
 }

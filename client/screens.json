@@ -27,6 +27,13 @@
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
       "model": "loginconfident"
+    },
+    {
+      "id": "formlargecool",
+      "name": "FormLarge-Cool",
+      "sourceScreenId": "app.formlarge.formlargecool",
+      "sourceAppId": "universaltemplates",
+      "model": "formlargecool"
     }
   ],
   "sourceAppId": "_blank",

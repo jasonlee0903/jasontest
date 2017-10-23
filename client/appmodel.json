@@ -180,14 +180,22 @@
     "type": "object",
     "comment": "testdata",
     "properties": {
-      "ID": {
-        "type": "string"
-      },
-      "Status": {
-        "type": "select"
-      },
-      "Summary": {
-        "type": "string"
+      "list": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "ID": {
+              "type": "string"
+            },
+            "stauts": {
+              "type": "select"
+            },
+            "summary": {
+              "type": "string"
+            }
+          }
+        }
       }
     }
   }

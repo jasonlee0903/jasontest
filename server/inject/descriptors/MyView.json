@@ -3,8 +3,9 @@
   "properties": {
     "isMyView": {
       "type": "identifier",
-      "selector": ".button",
-      "control": "action.button"
+      "selector": "a[href*='my_view_page.php']",
+      "control": "exists",
+      "selectContains": "MyView"
     }
   },
   "connect": []

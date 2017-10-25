@@ -77,7 +77,7 @@
       }
     }
   },
-  "issue_model": {
+  "reportissue": {
     "type": "object",
     "comment": "issue model",
     "properties": {

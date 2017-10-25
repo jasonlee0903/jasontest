@@ -24,6 +24,15 @@
       "selectContains": "Submit Report"
     }
   },
-  "connect": [],
+  "connect": [
+    {
+      "match": [
+        "isReportissue"
+      ],
+      "screens": [
+        "reportissue"
+      ]
+    }
+  ],
   "selector": ".form-title"
 }

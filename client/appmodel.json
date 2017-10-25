@@ -48,6 +48,9 @@
     "properties": {
       "category": {
         "type": "select"
+      },
+      "isReportissue": {
+        "type": "select"
       }
     }
   },

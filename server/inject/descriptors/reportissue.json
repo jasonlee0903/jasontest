@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "select",
+      "selector": "[name=\"category_id\"]",
+      "control": "select"
+    }
+  },
+  "connect": []
+}

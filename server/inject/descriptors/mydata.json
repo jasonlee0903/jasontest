@@ -39,7 +39,9 @@
   },
   "connect": [
     {
-      "match": [],
+      "match": [
+        "isMyView"
+      ],
       "screens": [
         "viewissues"
       ]

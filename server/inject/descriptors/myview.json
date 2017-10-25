@@ -13,6 +13,23 @@
       "selector": "a",
       "control": "action.link",
       "selectContains": "View Issues"
+    },
+    "list": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ID": {
+            "type": "string"
+          },
+          "stauts": {
+            "type": "string"
+          },
+          "summary": {
+            "type": "string"
+          }
+        }
+      }
     }
   },
   "connect": [

@@ -88,6 +88,9 @@
         "update": {
           "type": "none"
         }
+      },
+      "viewissueslink": {
+        "type": "action"
       }
     }
   }

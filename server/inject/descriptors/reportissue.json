@@ -3,7 +3,9 @@
   "comment": "issue model",
   "properties": {
     "category": {
-      "type": "select"
+      "type": "select",
+      "selector": "[name=\"category_id\"]",
+      "control": "select"
     },
     "summary": {
       "type": "string"

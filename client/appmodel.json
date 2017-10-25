@@ -88,6 +88,9 @@
         "update": {
           "type": "none"
         }
+      },
+      "reportIssuesLink": {
+        "type": "action"
       }
     }
   }

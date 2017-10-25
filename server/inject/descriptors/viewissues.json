@@ -49,7 +49,7 @@
     "reportIssuesLink": {
       "type": "action",
       "selector": ".button[value='Submit Report']",
-      "control": "exists",
+      "control": "action.link",
       "selectContains": "Report Issue"
     }
   },

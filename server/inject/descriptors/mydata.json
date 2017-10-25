@@ -2,45 +2,6 @@
   "type": "object",
   "comment": "testdata",
   "properties": {
-    "list": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "ID": {
-            "type": "string",
-            "update": {
-              "type": "none"
-            },
-            "selector": "td",
-            "selectIndex": 3,
-            "control": "text"
-          },
-          "stauts": {
-            "type": "string",
-            "update": {
-              "type": "none"
-            },
-            "selector": "td",
-            "selectIndex": 8,
-            "control": "text"
-          },
-          "summary": {
-            "type": "string",
-            "update": {
-              "type": "none"
-            },
-            "selector": "td",
-            "selectIndex": 10,
-            "control": "text"
-          }
-        }
-      },
-      "update": {
-        "type": "none"
-      },
-      "selectorAll": "#buglist"
-    },
     "isMyView": {
       "type": "identifier",
       "selector": "a[href*='my_view_page.php']",

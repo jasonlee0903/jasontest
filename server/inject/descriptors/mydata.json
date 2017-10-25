@@ -4,8 +4,9 @@
   "properties": {
     "isMyView": {
       "type": "identifier",
-      "selector": "a[href*='my_view_page.php']",
-      "control": "exists"
+      "selector": ".subtle",
+      "control": "exists",
+      "selectContains": "Assigned to Me"
     },
     "viewissueslink": {
       "type": "action",

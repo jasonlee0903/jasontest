@@ -20,7 +20,7 @@
       "name": "Login",
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
-      "model": "loginconfident"
+      "model": "login"
     },
     {
       "id": "viewissues",

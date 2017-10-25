@@ -8,7 +8,7 @@
       "control": "select"
     },
     "isReportissue": {
-      "type": "select",
+      "type": "identifier",
       "selector": ".button[value='Submit Report']",
       "control": "exists"
     }

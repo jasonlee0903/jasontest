@@ -10,6 +10,12 @@
       "type": "identifier",
       "selector": ".button[value='Submit Report']",
       "control": "exists"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
     }
   },
   "connect": []

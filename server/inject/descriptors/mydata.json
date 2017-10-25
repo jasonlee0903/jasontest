@@ -38,7 +38,8 @@
       },
       "update": {
         "type": "none"
-      }
+      },
+      "selectorAll": "#buglist"
     },
     "isMyView": {
       "type": "identifier",

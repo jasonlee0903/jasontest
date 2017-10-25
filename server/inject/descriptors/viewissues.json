@@ -48,7 +48,7 @@
     },
     "reportIssuesLink": {
       "type": "action",
-      "selector": ".button[value='Submit Report']",
+      "selector": "a",
       "control": "action.link",
       "selectContains": "Report Issue"
     }

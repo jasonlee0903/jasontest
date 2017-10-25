@@ -1,1 +1,22 @@
-{}
+{
+  "category": {
+    "options": [
+      {
+        "label": "Testing",
+        "value": "1"
+      },
+      {
+        "label": "Material",
+        "value": "2"
+      },
+      {
+        "label": "Process",
+        "value": "3"
+      }
+    ],
+    "selected": {
+      "label": "Testing",
+      "value": "1"
+    }
+  }
+}

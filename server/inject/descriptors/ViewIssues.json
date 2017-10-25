@@ -1,5 +1,9 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "isMyView": {
+      "type": "identifier"
+    }
+  },
   "connect": []
 }

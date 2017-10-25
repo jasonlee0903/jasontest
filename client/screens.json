@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "jasontest",
-  "startScreen": "app.loginconfident",
+  "startScreen": "app.login",
   "screens": [
     {
       "id": "blank",
@@ -23,8 +23,8 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "loginconfident",
-      "name": "Login-Confident",
+      "id": "login",
+      "name": "Login",
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
       "model": "loginconfident"
@@ -37,8 +37,8 @@
       "model": "formlargecool"
     },
     {
-      "id": "blank1",
-      "name": "BLANK1",
+      "id": "viewissues",
+      "name": "ViewIssues",
       "sourceScreenId": "app.blank",
       "sourceAppId": "jasontest_2",
       "model": "mydata"

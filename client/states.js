@@ -33,12 +33,12 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.loginconfident', {
+    }).state('app.login', {
         views: {
             app: {
-                controller: 'app_loginconfident',
+                controller: 'app_login',
                 templateProvider: function (app) {
-                    return app.templateProvider('app.loginconfident');
+                    return app.templateProvider('app.login');
                 }
             }
         }
@@ -51,12 +51,12 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.blank1', {
+    }).state('app.viewissues', {
         views: {
             app: {
-                controller: 'app_blank1',
+                controller: 'app_viewissues',
                 templateProvider: function (app) {
-                    return app.templateProvider('app.blank1');
+                    return app.templateProvider('app.viewissues');
                 }
             }
         }

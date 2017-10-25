@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "comment": "issue model",
+  "properties": {
+    "category": {
+      "type": "select"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  },
+  "connect": []
+}

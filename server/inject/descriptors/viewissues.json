@@ -10,19 +10,28 @@
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td",
+            "selectIndex": 3,
+            "control": "property.innerText"
           },
           "stauts": {
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td",
+            "selectIndex": 8,
+            "control": "property.innerText"
           },
           "summary": {
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selectIndex": 10,
+            "selector": "td",
+            "control": "property.innerText"
           }
         }
       },

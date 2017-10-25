@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "isMyview": {
+      "type": "identifier",
+      "selector": ".subtle",
+      "control": "exists",
+      "selectContains": "Assigned to Me"
+    },
+    "viewissueslink": {
+      "type": "action",
+      "selector": "a",
+      "control": "action.link",
+      "selectContains": "View Issues"
+    }
+  },
+  "connect": []
+}

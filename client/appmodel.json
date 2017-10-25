@@ -57,7 +57,7 @@
       }
     }
   },
-  "myview": {
+  "viewissues": {
     "type": "object",
     "properties": {
       "list": {
@@ -88,9 +88,6 @@
         "update": {
           "type": "none"
         }
-      },
-      "viewissueslink": {
-        "type": "action"
       }
     }
   }

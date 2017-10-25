@@ -83,6 +83,9 @@
     "properties": {
       "category": {
         "type": "select"
+      },
+      "summary": {
+        "type": "string"
       }
     }
   }

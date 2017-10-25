@@ -30,7 +30,19 @@
       "update": {
         "type": "none"
       }
+    },
+    "isMyView": {
+      "type": "identifier"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isMyView"
+      ],
+      "screens": [
+        "viewissues"
+      ]
+    }
+  ]
 }

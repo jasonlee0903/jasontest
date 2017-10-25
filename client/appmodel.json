@@ -1,39 +1,4 @@
 {
-  "mydata": {
-    "type": "object",
-    "comment": "testdata",
-    "properties": {
-      "list": {
-        "type": "array",
-        "items": {
-          "type": "object",
-          "properties": {
-            "ID": {
-              "type": "string",
-              "update": {
-                "type": "none"
-              }
-            },
-            "stauts": {
-              "type": "string",
-              "update": {
-                "type": "none"
-              }
-            },
-            "summary": {
-              "type": "string",
-              "update": {
-                "type": "none"
-              }
-            }
-          }
-        },
-        "update": {
-          "type": "none"
-        }
-      }
-    }
-  },
   "login": {
     "type": "object",
     "properties": {
@@ -89,6 +54,40 @@
       },
       "description": {
         "type": "string"
+      }
+    }
+  },
+  "myview": {
+    "type": "object",
+    "properties": {
+      "list": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "ID": {
+              "type": "string",
+              "update": {
+                "type": "none"
+              }
+            },
+            "stauts": {
+              "type": "string",
+              "update": {
+                "type": "none"
+              }
+            },
+            "summary": {
+              "type": "string",
+              "update": {
+                "type": "none"
+              }
+            }
+          }
+        },
+        "update": {
+          "type": "none"
+        }
       }
     }
   }

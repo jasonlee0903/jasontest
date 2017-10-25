@@ -27,7 +27,7 @@
       "name": "ViewIssues",
       "sourceScreenId": "app.blank",
       "sourceAppId": "jasontest_2",
-      "model": "mydata"
+      "model": "myview"
     },
     {
       "id": "reportissue",

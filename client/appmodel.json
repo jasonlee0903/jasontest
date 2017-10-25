@@ -50,7 +50,7 @@
         "type": "select"
       },
       "isReportissue": {
-        "type": "select"
+        "type": "action"
       }
     }
   },

@@ -16,7 +16,14 @@
       "type": "string",
       "selector": "[name=\"description\"]",
       "control": "text"
+    },
+    "isReportissue": {
+      "type": "identifier",
+      "selector": ".button",
+      "control": "exists",
+      "selectContains": "Submit Report"
     }
   },
-  "connect": []
+  "connect": [],
+  "selector": ".form-title"
 }
